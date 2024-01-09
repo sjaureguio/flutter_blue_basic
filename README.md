@@ -1,4 +1,4 @@
-# flutter_bluetooth_basic
+# flutter_blue_basic
 
 Flutter plugin that allows to find bluetooth devices & send raw bytes data.
 Supports both Android and iOS.
